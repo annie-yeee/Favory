@@ -67,10 +67,11 @@ JPA N+1 문제가 원인이었고, Fetch Join + 태그 리스트 일괄 조회�
 | TPS | 6.4/sec | 10.2/sec | 59% 향상 |
 
 **AS-IS (개선 전)**
-![jmeter-before](https://github.com/user-attachments/assets/65857f5e-db2e-4800-a6a1-aab5f1de86cd)
+<img width="1133" height="223" alt="jmeter-before" src="https://github.com/user-attachments/assets/d657aa1b-8f64-4d68-ae81-5c30fd7247e9" />
+
 
 **TO-BE (개선 후)**
-![jmeter-after](https://github.com/user-attachments/assets/8986b426-5f44-470b-ba40-8296b5ec63e1)
+<img width="1132" height="228" alt="jmeter-after" src="https://github.com/user-attachments/assets/0a807da5-b6e0-4240-b319-7770fd912ab8" />
 
 ### 🚀 인프라 / 배포
 - AWS EC2 서버 배포 및 운영
