@@ -29,6 +29,14 @@
 
 ---
 
+## 🔗 협업 기록 & 아티클
+- **팀 원본 저장소:** [pz7781/Favory](https://github.com/pz7781/Favory) *(팀 프로젝트 PR 및 코드 리뷰 내역 확인 가능)*
+- **기술 고민 및 복기 아티클:**
+  - [GlobalExceptionHandler 도입기 — 에러코드 설계까지](https://velog.io/@annie-yeee/GlobalExceptionHandler-%EB%8F%84%EC%9E%85%EA%B8%B0-%EC%97%90%EB%9F%AC%EC%BD%94%EB%93%9C-%EC%84%A4%EA%B3%84%EA%B9%8C%EC%A7%80))
+  - [[Java to Kotlin] 코드를 복습하며 깨달은 것들](https://velog.io/@annie-yeee/Kotlin%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EC%A7%81%EC%A0%91-%EB%8A%90%EB%82%80-%EA%B2%83%EB%93%A4)
+
+---
+
 ## 담당 기능 (김우영)
 
 ### 🤝 API 협업
